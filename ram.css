@@ -40,7 +40,8 @@ ul{
 div{
 	position:fixed;
 	bottom:0;
-	width:100px;
+	width:100%;
+	font-size:20%;
 	background-color:blue;
 }
 
