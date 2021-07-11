@@ -37,6 +37,11 @@ ul{
 	margin-right: 460px;
 
 }
-
+div{
+	position:fixed;
+	bottom:0;
+	width:100px;
+	background-color:blue;
+}
 
 
